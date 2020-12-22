@@ -5,6 +5,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -41,6 +42,9 @@ public class MainActivity extends AppCompatActivity {
         buttonClickEvent();
 
     }
+    public void testPush(){
+        Toast.makeText(this, "testPush", Toast.LENGTH_SHORT).show();
+    }
 
 
 
@@ -54,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         editTextTags=findViewById(R.id.edit_text_tags);
 
     }
-    
+
     public void buttonClickEvent(){
         addnotes.setOnClickListener(new View.OnClickListener() {
             @Override

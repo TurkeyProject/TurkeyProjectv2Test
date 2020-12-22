@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531660553129",
+    "project_id": "turkeytest-53ef1",
+    "storage_bucket": "turkeytest-53ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531660553129:android:cba0678e55710ea920e2b8",
+        "android_client_info": {
+          "package_name": "com.example.turkeyprojectv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531660553129-r5hd53p8mr6ojodvt31v6bjrdseb6bod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOY6w-gNHucQq0c6AWlGq9i4KhCPugIbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531660553129-r5hd53p8mr6ojodvt31v6bjrdseb6bod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

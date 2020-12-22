@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         editTextTags=findViewById(R.id.edit_text_tags);
 
     }
+    
     public void buttonClickEvent(){
         addnotes.setOnClickListener(new View.OnClickListener() {
             @Override
